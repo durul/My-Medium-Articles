@@ -12,7 +12,7 @@ Best image download extension library for Swift 3 [#4](https://medium.com/ios-os
 
 My Development Toolset 2017 for iOS [#5](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
 
-My Development Toolset for React Native iOS Development [#6](.. :: ..)
+My Development Toolset for React Native iOS Development [#6](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
 
 ## Asset Credits
 Portfolio: http://durul.github.io
