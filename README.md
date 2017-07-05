@@ -26,6 +26,9 @@ Portfolio: http://durul.github.io
 ## Support
 Twitter: https://www.twitter.com/duruldalkanat
 
+## Blogs/Newsletter
+
+AppCoda Weekly - Issue 10 (http://digest.appcoda.com/issues/appcoda-weekly-issue-10-48743)
 
 ## License
 
