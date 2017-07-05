@@ -26,9 +26,18 @@ Portfolio: http://durul.github.io
 ## Support
 Twitter: https://www.twitter.com/duruldalkanat
 
+
 ## Blogs/Newsletter
 
+[maniacdev](https://maniacdev.com/2017/03/150-ios-developer-interview-questions-answered)
 [AppCoda Weekly - Issue 10](http://digest.appcoda.com/issues/appcoda-weekly-issue-10-48743)
+[iOS Developers](https://www.facebook.com/apple.ios.developers/posts/1485002054852054)
+[Key Software Services](https://www.facebook.com/KEYSS.IN/photos/pb.105810888587.-2207520000.1496252898./10155392436308588)
+[Mybridge](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-may-2017-e7160a55127e)
+[Swift Weekly - Issue #69](http://digest.swiftweekly.com/issues/swift-weekly-issue-69-49991)
+[Awesome iOS Newsletter](https://ios.libhunt.com/newsletter/37)
+[This Week in Mobile Web Development (151)](https://www.inboxdb.com/this-week-in-mobile-web-development-151-49054/)
+
 
 ## License
 
