@@ -45,6 +45,8 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [This Week in Mobile Web Development (151)](https://www.inboxdb.com/this-week-in-mobile-web-development-151-49054/)
 
+[Focus Weekly issue 111](https://indieiosfocus.curated.co/issues/111#start)
+
 
 ## License
 
