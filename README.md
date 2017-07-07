@@ -37,7 +37,7 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Key Software Services](https://www.facebook.com/KEYSS.IN/photos/pb.105810888587.-2207520000.1496252898./10155392436308588)
 
-[Mybridge](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-may-2017-e7160a55127e)
+[Mybridge Swift Top 10 Article May](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-may-2017-e7160a55127e)
 
 [Swift Weekly - Issue #69](http://digest.swiftweekly.com/issues/swift-weekly-issue-69-49991)
 
@@ -47,6 +47,7 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Focus Weekly issue 111](https://indieiosfocus.curated.co/issues/111#start)
 
+[Mybridge Swift Top 10 Article April](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-11d3863108df)
 
 ## License
 
