@@ -8,15 +8,15 @@
 
 50 iOS Interview Questions And Answers Part 3 [#3](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d#.2gtjkclb4)
 
-50 iOS Interview Questions And Answers Part 4 [#4] SOON...
+50 iOS Interview Questions And Answers Part 4 [#4](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a)
 
-Best image download extension library for Swift 3 [#4](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
+Best image download extension library for Swift 3 [#5](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
-My Development Toolset 2017 for iOS [#5](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
+My Development Toolset 2017 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
 
-My Development Toolset for React Native iOS Development [#6](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
+My Development Toolset for React Native iOS Development [#7](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
 
-Code Challenge for iOS Interview [#7](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
+Code Challenge for iOS Interview [#8](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
 
 
 ## Asset Credits
