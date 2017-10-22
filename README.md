@@ -18,6 +18,7 @@ My Development Toolset for React Native iOS Development [#7](https://medium.com/
 
 Code Challenge for iOS Interview [#8](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
 
+Questions for myself about React JS & React Native [#9](https://codeburst.io/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
 ## Asset Credits
 Portfolio: http://durul.github.io
