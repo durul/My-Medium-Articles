@@ -50,6 +50,8 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Mybridge Swift Top 10 Article April](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-11d3863108df)
 
+[React Native Coach](http://reactnativecoach.com/issues/12#start)
+
 ## License
 
 The MIT License (MIT)
