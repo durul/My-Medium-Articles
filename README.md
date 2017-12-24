@@ -59,6 +59,9 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [ReactDOM](https://reactdom.com/issues/62)
 
+[Weekly Cocoa Newsletter](https://weeklycocoa.news/2017/week-47th-of-2017/)
+
+
 ## License
 
 The MIT License (MIT)
