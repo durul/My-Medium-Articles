@@ -47,7 +47,9 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Swift Weekly - Issue #69](http://digest.swiftweekly.com/issues/swift-weekly-issue-69-49991)
 
-[Awesome iOS Newsletter](https://ios.libhunt.com/newsletter/37)
+[Awesome iOS Newsletter Issue » 37](https://ios.libhunt.com/newsletter/37)
+
+[Awesome iOS Newsletter Issue » 80](https://ios.libhunt.com/newsletter/80)
 
 [This Week in Mobile Web Development (151)](https://www.inboxdb.com/this-week-in-mobile-web-development-151-49054/)
 
