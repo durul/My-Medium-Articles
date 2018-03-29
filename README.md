@@ -63,6 +63,7 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Weekly Cocoa Newsletter](https://weeklycocoa.news/2017/week-47th-of-2017/)
 
+[Indie iOS Focus Weekly](https://indieiosfocus.com/issues/166)
 
 ## License
 
