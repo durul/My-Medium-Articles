@@ -53,7 +53,7 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [This Week in Mobile Web Development (151)](https://www.inboxdb.com/this-week-in-mobile-web-development-151-49054/)
 
-[Focus Weekly issue 111](https://indieiosfocus.curated.co/issues/111#start)
+[Indie iOS Focus Weekly 111](https://indieiosfocus.curated.co/issues/111#start)
 
 [Mybridge Swift Top 10 Article April](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-11d3863108df)
 
@@ -63,13 +63,13 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Weekly Cocoa Newsletter](https://weeklycocoa.news/2017/week-47th-of-2017/)
 
-[Indie iOS Focus Weekly](https://indieiosfocus.com/issues/166)
+[Indie iOS Focus Weekly 166](https://indieiosfocus.com/issues/166)
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Durul Dalkanat
+Copyright (c) 2018 Durul Dalkanat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
