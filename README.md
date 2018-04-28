@@ -65,6 +65,8 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Indie iOS Focus Weekly 166](https://indieiosfocus.com/issues/166)
 
+[Swiftly Curated](http://swiftly.mecid.info/issues/swiftly-curated-issue-31-97875)
+
 ## License
 
 The MIT License (MIT)
