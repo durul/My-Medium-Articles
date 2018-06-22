@@ -70,6 +70,9 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 [Swiftly Curated](http://swiftly.mecid.info/issues/swiftly-curated-issue-31-97875)
 
+[Awesome iOS Newsletter Issue » 104](https://ios.libhunt.com/newsletter/104)
+
+
 ## License
 
 The MIT License (MIT)
