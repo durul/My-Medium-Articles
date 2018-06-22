@@ -13,6 +13,8 @@
 
 50 iOS Interview Questions And Answers Part 4 [#4](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a)
 
+50 iOS Interview Questions And Answers Part 5 [#5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
+
 Best image downloading, processing and caching libraries for Swift [#5](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
 My Development Toolset 2017 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
