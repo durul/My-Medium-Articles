@@ -17,7 +17,7 @@
 
 Best image downloading, processing and caching libraries for Swift [#5](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
-My Development Toolset 2017 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
+My Development Toolset 2019 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
 
 Code Challenge for iOS Interview [#7](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
 
@@ -28,7 +28,7 @@ Which commands do I use in my terminal all day? [#8](https://medium.com/@durulda
 
 Questions for myself about React JS & React Native [#9](https://codeburst.io/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
-My Development Toolset for React Native iOS Development [#10](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
+My Development Toolset 2019 for React Native iOS Development [#10](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
 
 ## Asset Credits
 Portfolio: http://durul.github.io
