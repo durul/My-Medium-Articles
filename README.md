@@ -15,6 +15,8 @@
 
 50 iOS Interview Questions And Answers Part 5 [#5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
 
+50 iOS Interview Questions And Answers Part 6 ```to be continue```
+
 Best image downloading, processing and caching libraries for Swift [#5](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
 My Development Toolset 2019 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
@@ -29,6 +31,12 @@ Which commands do I use in my terminal all day? [#8](https://medium.com/@durulda
 Questions for myself about React JS & React Native [#9](https://codeburst.io/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
 My Development Toolset 2019 for React Native iOS Development [#10](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
+
+
+## Devops recommendations
+
+Kubernetes Installation with Minikube 101: Hello World [#11](https://medium.com/@duruldalkanat/kubernetes-installation-with-minikube-101-hello-world-996a1146d54d)
+
 
 ## Asset Credits
 Portfolio: http://durul.github.io
