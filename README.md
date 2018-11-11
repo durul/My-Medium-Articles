@@ -17,25 +17,28 @@
 
 50 iOS Interview Questions And Answers Part 6 ```to be continue```
 
-Best image downloading, processing and caching libraries for Swift [#5](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
-
 My Development Toolset 2019 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
 
 Code Challenge for iOS Interview [#7](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
 
 Which commands do I use in my terminal all day? [#8](https://medium.com/@duruldalkanat/which-commands-do-i-use-in-my-terminal-all-day-5787f0e9b830)
 
+🎨 DRL Xcode theme [#9](https://medium.com/@duruldalkanat/drl-xcode-theme-bb19c65cf96)
+
+Best image downloading, processing and caching libraries for Swift [#10](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
 ## React Native Developer recommendations
 
-Questions for myself about React JS & React Native [#9](https://codeburst.io/questions-for-myself-about-react-js-react-native-5894cb76d9c)
+Questions for myself about React JS & React Native [#11](https://medium.com/@duruldalkanat/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
-My Development Toolset 2019 for React Native iOS Development [#10](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
+My Development Toolset 2019 for React Native iOS Development [#12](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
 
 
 ## Devops recommendations
 
-Kubernetes Installation with Minikube 101: Hello World [#11](https://medium.com/@duruldalkanat/kubernetes-installation-with-minikube-101-hello-world-996a1146d54d)
+Kubernetes Installation with Minikube 101: Hello World [#13](https://medium.com/@duruldalkanat/kubernetes-installation-with-minikube-101-hello-world-996a1146d54d)
+
+Bash Commands Guide [#14](https://medium.com/@duruldalkanat/bash-commands-guide-129c81cbfe87)
 
 
 ## Asset Credits
