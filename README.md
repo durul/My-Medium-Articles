@@ -51,6 +51,8 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 ## Blogs/Newsletter
 
+[iOS developer top news of 2018](https://medium.com/@mobilehackersio/ios-developer-top-news-of-2018-b2990d671bbc)
+
 [maniacdev](https://maniacdev.com/2017/03/150-ios-developer-interview-questions-answered)
 
 [AppCoda Weekly - Issue 10](http://digest.appcoda.com/issues/appcoda-weekly-issue-10-48743)
