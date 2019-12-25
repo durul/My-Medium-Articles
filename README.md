@@ -15,7 +15,7 @@
 
 50 iOS Interview Questions And Answers Part 5 [#5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
 
-50 iOS Interview Questions And Answers Part 6 ```to be continue```
+50 iOS Interview Questions And Answers Part 6 [#6](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-6-3aba0cdd2070)
 
 My Development Toolset 2019 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
 
