@@ -3,44 +3,68 @@
 
 # List of my blog posts in the Medium
 
+## SwiftUI recommendations
+
+[Saving an Array of Codable Objects in SwiftUI’s @AppStorage](https://duruldalkanat.medium.com/saving-an-array-of-codable-objects-in-swiftuis-appstorage-25010fbfe2c3) 
+
+[Keeping User Data Private with SwiftUI’s redacted Modifier](https://duruldalkanat.medium.com/keeping-user-data-private-with-swiftuis-redacted-modifier-a914b22c82fa)
+
+[SwiftUI Sheet with ScrollView like in Apple Maps](https://duruldalkanat.medium.com/swiftui-sheet-with-scrollview-like-in-apple-maps-a946f94be711)
+
+[Creating a Layered Apple Logo Effect with SwiftUI](https://duruldalkanat.medium.com/creating-a-layered-apple-logo-effect-with-swiftui-548f3be6b2ac)
+
+[Creating 3D Perspective Effects with SwiftUI’s ProjectionEffect](https://duruldalkanat.medium.com/creating-3d-perspective-effects-with-swiftuis-projectioneffect-e4fce3ce4896)
+
+[Supercharging SwiftUI Views with the .compositingGroup() Modifier](https://duruldalkanat.medium.com/supercharging-swiftui-views-with-the-compositinggroup-modifier-b6c4b9158e95)
+
+[Displaying Badges in SwiftUI](https://durudalkanat.medium.com/displaying-badges-in-swiftui-664706c41487)
+
+
+
+
+
 ## IOS Developer recommendations
 
-50 iOS Interview Questions And Answers [#1](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a#.fk998vdc2)
+[ConcurrentPerform vs. For-Loop with Concurrent Async in iOS](https://duruldalkanat.medium.com/concurrentperform-vs-for-loop-with-concurrent-async-in-ios-0481af404bd8)
 
-50 iOS Interview Questions And Answers Part 2 [#2](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-2-45f952230b9f#.68uenedy3)
+[Custom Optionals in Swift: Implementing Your Own Optional Type](https://duruldalkanat.medium.com/custom-optionals-in-swift-implementing-your-own-optional-type-7b44468deca4)
 
-50 iOS Interview Questions And Answers Part 3 [#3](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d#.2gtjkclb4)
+[50 iOS Interview Questions And Answers](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a#.fk998vdc2)
 
-50 iOS Interview Questions And Answers Part 4 [#4](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a)
+[50 iOS Interview Questions And Answers Part 2](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-2-45f952230b9f#.68uenedy3)
 
-50 iOS Interview Questions And Answers Part 5 [#5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
+[50 iOS Interview Questions And Answers Part 3](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d#.2gtjkclb4)
 
-My Development Toolset 2019 for iOS [#6](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
+[50 iOS Interview Questions And Answers Part 4](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-4-6f26b26341a)
 
-Code Challenge for iOS Interview [#7](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
+[50 iOS Interview Questions And Answers Part 5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
 
-Which commands do I use in my terminal all day? [#8](https://medium.com/@duruldalkanat/which-commands-do-i-use-in-my-terminal-all-day-5787f0e9b830)
+[My Development Toolset 2019 for iOS](https://medium.com/@duruldalkanat/my-development-toolset-2017-for-ios-7c0758e3e5ce#.lspa7gi1q)
 
-🎨 DRL Xcode theme [#9](https://medium.com/@duruldalkanat/drl-xcode-theme-bb19c65cf96)
+[Code Challenge for iOS Interview](https://medium.com/@duruldalkanat/code-challenge-for-ios-interview-817c139891e4)
 
-Best image downloading, processing and caching libraries for Swift [#10](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
+[Which commands do I use in my terminal all day?](https://medium.com/@duruldalkanat/which-commands-do-i-use-in-my-terminal-all-day-5787f0e9b830)
+
+[🎨 DRL Xcode theme](https://medium.com/@duruldalkanat/drl-xcode-theme-bb19c65cf96)
+
+Best image downloading, processing and caching libraries for Swift [#Link](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
 ## React Native Developer recommendations
 
-Questions for myself about React JS & React Native [#11](https://medium.com/@duruldalkanat/questions-for-myself-about-react-js-react-native-5894cb76d9c)
+[Questions for myself about React JS & React Native](https://medium.com/@duruldalkanat/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
-My Development Toolset 2019 for React Native iOS Development [#12](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
+[My Development Toolset 2019 for React Native iOS Development](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
 
 
 ## Devops recommendations
 
-Kubernetes Installation with Minikube 101: Hello World [#13](https://medium.com/@duruldalkanat/kubernetes-installation-with-minikube-101-hello-world-996a1146d54d)
+[Kubernetes Installation with Minikube 101: Hello World](https://medium.com/@duruldalkanat/kubernetes-installation-with-minikube-101-hello-world-996a1146d54d)
 
-Bash Commands Guide [#14](https://medium.com/@duruldalkanat/bash-commands-guide-129c81cbfe87)
+[Bash Commands Guide](https://medium.com/@duruldalkanat/bash-commands-guide-129c81cbfe87)
 
 
 ## Asset Credits
-Portfolio: http://durul.github.io
+Portfolio: http://about.me/durul
 
 
 ## Support
@@ -90,7 +114,7 @@ Twitter: https://www.twitter.com/duruldalkanat
 
 The MIT License (MIT)
 
-Copyright (c) 2018 Durul Dalkanat
+Copyright (c) 2024 Durul Dalkanat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
