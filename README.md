@@ -20,7 +20,11 @@
 [Displaying Badges in SwiftUI](https://durudalkanat.medium.com/displaying-badges-in-swiftui-664706c41487)
 
 
+## Flutter recommendations
 
+[In-Depth Comparison: Flutter vs Jetpack Compose UI Components](https://duruldalkanat.medium.com/in-depth-comparison-flutter-vs-jetpack-compose-ui-components-875e05843084)
+
+[Riverpod Deep Dive: Choosing Between StateNotifier and Notifier](https://duruldalkanat.medium.com/statenotifier-vs-notifier-in-riverpod-understanding-the-key-differences-d619550fd4e1)
 
 
 ## IOS Developer recommendations
@@ -47,7 +51,7 @@
 
 [🎨 DRL Xcode theme](https://medium.com/@duruldalkanat/drl-xcode-theme-bb19c65cf96)
 
-Best image downloading, processing and caching libraries for Swift [#Link](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
+[Best image downloading, processing and caching libraries for Swif](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
 ## React Native Developer recommendations
 
