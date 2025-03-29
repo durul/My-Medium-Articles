@@ -19,6 +19,11 @@
 
 [Displaying Badges in SwiftUI](https://durudalkanat.medium.com/displaying-badges-in-swiftui-664706c41487)
 
+[Creating Engaging Fuel Gauge Animations in SwiftUI](https://medium.com/p/1b76c1abeecc)
+
+[Building Beautiful, Functional Text Fields in SwiftUI](https://medium.com/p/399a6cb54907)
+
+[Asynchronous Data Processing in Swift with adjacentPairs()](https://medium.com/p/b8174cb2fbbb)
 
 ## Flutter recommendations
 
@@ -53,11 +58,15 @@
 
 [Best image downloading, processing and caching libraries for Swif](https://medium.com/ios-os-x-development/best-image-download-extension-library-for-swift-3-cf64ec1f84a0#.5nm2frvfb)
 
+
 ## React Native Developer recommendations
 
 [Questions for myself about React JS & React Native](https://medium.com/@duruldalkanat/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
 [My Development Toolset 2019 for React Native iOS Development](https://medium.com/@duruldalkanat/my-development-toolset-for-react-native-ios-development-de1bd1b07216#.ohd2brda4)
+
+[Pressable vs. TouchableOpacity in React Native: Making the Right Choice](https://medium.com/p/4e5212f289d0)
+
 
 
 ## Devops recommendations
