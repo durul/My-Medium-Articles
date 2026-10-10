@@ -1,7 +1,16 @@
 
 # List of my blog posts in the Medium
 
+## visionOS recommendations
+
+[The Spatial Memory Manifesto: The Future of Nostalgia on Vision Pro ᯅ](https://medium.com/design-bootcamp/the-spatial-memory-manifesto-the-future-of-nostalgia-on-vision-pro-%E1%AF%85-df2c06def487)
+
+[Vision Pro Developer Strap: Forensic Proof of the “USB 2.0 Bottleneck” with IORegistryExplorer](https://duruldalkanat.medium.com/vision-pro-developer-strap-forensic-proof-of-the-usb-2-0-bottleneck-51f50806c20e)
+
+
 ## SwiftUI recommendations
+
+[Swift and SwiftUI in iOS 27 and macOS 27](https://duruldalkanat.medium.com/swift-and-swiftui-in-ios-27-and-macos-27-d3fd854eab31)
 
 [Saving an Array of Codable Objects in SwiftUI’s @AppStorage](https://duruldalkanat.medium.com/saving-an-array-of-codable-objects-in-swiftuis-appstorage-25010fbfe2c3) 
 
@@ -58,6 +67,8 @@
 
 
 ## React Native Developer recommendations
+
+[Shopify Has Declared “The Future” Again. Its Followers Foot the Bill.](https://duruldalkanat.medium.com/shopify-has-declared-the-future-again-its-followers-foot-the-bill-c90a1117f11e)
 
 [Questions for myself about React JS & React Native](https://medium.com/@duruldalkanat/questions-for-myself-about-react-js-react-native-5894cb76d9c)
 
